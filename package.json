@@ -1,0 +1,23 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylikStec/i-can-haz-dad-joke-Netlify-Fxs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylikStec/i-can-haz-dad-joke-Netlify-Fxs/issues"
+  },
+  "homepage": "https://github.com/TylikStec/i-can-haz-dad-joke-Netlify-Fxs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
